@@ -1,10 +1,10 @@
 {
   "name": "baik-scripting-snippets",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "IhsanDevs",
   "displayName": "BAIK SNIPPETS",
   "description": "Snippets untuk BAIK Programming Language",
-  "readme": "README.md",
+  "readme": "https://github.com/IhsanDevs/BAIK-SNIPPETS/blob/master/README.md",
   "repository": {
     "url": "https://github.com/IhsanDevs/BAIK-SNIPPETS"
   },
