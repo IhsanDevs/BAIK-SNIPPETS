@@ -1,0 +1,38 @@
+{
+  "name": "baik-scripting-snippets",
+  "version": "1.0.0",
+  "publisher": "IhsanDevs",
+  "displayName": "BAIK SNIPPETS",
+  "description": "Snippets untuk BAIK Programming Language",
+  "readme": "README.md",
+  "repository": {
+    "url": "https://github.com/IhsanDevs/BAIK-SNIPPETS"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "BAIK",
+    "BAIK Snippets",
+    "Snippets",
+    "BAIK Programming Language"
+  ],
+  "preview": true,
+  "badges": [
+    {
+      "url": "https://github.com/IhsanDevs.png",
+      "description": "BAIK Programming Language",
+      "href": "https://github.com/IhsanDevs"
+    }
+  ],
+  "grammars": [
+    {
+      "language": "BAIK",
+      "scopeName": ".ina"
+    }
+  ],
+  "icon": "icon.jpg"
+}
